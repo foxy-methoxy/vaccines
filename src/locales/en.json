@@ -1,5 +1,118 @@
 {
-  "message": "hello i18n !!",
-  "hello": "hello in EN",
-  "language": "en"
+  "language": "en",
+  "message": "lol",
+  "title": "COVID-19 vaccines: effectiveness and how they work",
+  "description": "Although most cases of COVID-19 have a relatively mild course, about 20% are severe types of infection. Given the rate of coronavirus cases and their complications, it is not surprising to see the determination of scientists trying to develop new drugs and vaccines against SARS-CoV-2. We all hope that an effective vaccine for COVID-19 will overcome the pandemic. You can find up-to-date information on vaccine action, efficacy, and formulation in the article below.\n",
+  "summary": "All vaccines have side effects. Pain, swelling or redness at the injection site, fever, nausea, enlarged lymph nodes, vomiting, headache, chills, muscle or joint pain, diarrhea are all common reactions that can last for several days. Symptoms usually occur on the day you receive the vaccine. How pronounced they will be depend on the peculiarities of your body and the vaccine itself.",
+  "vaccines": {
+    "Pfizer / BioNtech": {
+      "ingredients": {
+        "name": "Ingredients",
+        "active-substance": {
+          "name": "Active substance",
+          "value": "COVID-19 mRNA vaccine"
+        },
+        "excipients": {
+          "name": "Excipients",
+          "options": {
+            "8": "((4-hydroksybutylo)azanediyl)bis(heksano-6,1-diyl)bis(2-dekanian heksylu)",
+            "9": "2-[(glikol polietylenowy)-2000]-N,N-ditetradecyloacetamid",
+            "10": "1,2-distearoilo-sn-glicero-3-fosfocholina",
+            "1": "cholesterol",
+            "2": "potassium chloride",
+            "3": "potassium dihydrogen phosphate",
+            "4": "sodium chloride",
+            "5": "disodium hydrogen phosphate dihydrate",
+            "6": "sucrose",
+            "7": "water for injections"
+          }
+        }
+      },
+      "description": "The BNT162b2 vaccine was developed by German pharmaceutical company BioNtech together with US pharmaceutical giant Pfizer. It was first produced in the UK. The vaccine created using ribonucleic acid (RNA) and this technology was first approved for use. Such preparations do not contain inactivated (dead) viruses or even parts of them. "
+    },
+    "Moderna": {
+      "ingredients": {
+        "name": "Ingredients",
+        "active-substance": {
+          "name": "Active substance",
+          "value": "Messenger ribonucleic acid (mRNA), encoding a spike protein (S) of SARS-CoV-2 virus"
+        },
+        "excipients": {
+          "name": "Excipients",
+          "options": {
+            "1": "1,2-distearoyl-sn-glycero-3-phosphocholine [DSPC]",
+            "2": "polyethylene glycol [PEG] 2000 dimyristoyl glycerol [DMG]",
+            "3": "cholesterol",
+            "4": "tromethamine",
+            "5": "tromethamine hydrochloride",
+            "6": "acetic acid",
+            "7": "sodium acetate trihydrate",
+            "8": "sucrose",
+            "9": "water for injections"
+          }
+        }
+      },
+      "description": "The mRNA-1273 vaccine was developed by the US company Moderna. It is manufactured in Massachusetts. Like the Pfizer/BioNtech vaccine, Moderna works with ribonucleic acids, and both vaccines contain matrix RNA and are very similar. When introduced into the body, the matrix RNA enters the cell and starts the synthesis of pathogen-specific antigens. More specifically, this acid encodes the synthesis of protein S, a spike protein that is a key unit in this virus, in the cells into which it is introduced. It triggers an immune response against itself because it is foreign to humans. The company has publicly stated that its COVID-19 vaccine achieves 94.1% efficiency and 100% efficacy in preventing severe disease. Importantly, the vaccine also shows high efficacy against new variants of coronaviruses. The advantage of this vaccine over the US-German Pfizer/BioNtech vaccine is that it can be stored at standard fridge temperatures of +2...+8 degrees Celsius."
+    },
+    "AstraZeneca": {
+      "ingredients": {
+        "name": "Ingredients",
+        "active-substance": {
+          "name": "active substance ",
+          "value": "Recombinant, replication-deficient chimpanzee adenovirus vector encoding the SARS CoV 2 Spike (S) glycoprotein, The vaccine contains genetically modified organisms (GMO)"
+        },
+        "excipients": {
+          "name": "Substancje pomocnicze",
+          "options": {
+            "1": "L-histidine",
+            "2": "L- histidine hydrochloride monohydrate",
+            "3": "magnesium chloride hexahydrate",
+            "4": "polysorbate 80",
+            "5": "sucrose",
+            "6": "disodium edetate dihydrate",
+            "7": "ethanol",
+            "8": "water for injections"
+          }
+        }
+      },
+      "description": "The AZD1222 vaccine has been developed by AstraZeneca and Oxford University. The vaccine works with a weakened adenovirus that causes colds in chimpanzees. The weakened adenovirus is called a vector and is essential for delivering information about the structure of the coronavirus protein to the body. This vaccine is almost 100% effective against severe COVID-19. In people 65+, the vaccine prevented 85% of the disease. The vaccine AstraZeneca must be stored at 2-8ºC for up to six months."
+    },
+    "Johnson&Johnson": {
+      "warnings": {
+        "list": {
+          "1": "you have ever had a severe, potentially life-threatening allergic reaction after injection of any other vaccine",
+          "2": "you have weakened immune system",
+          "3": "ever had a fainting spell following the insertion of any needle",
+          "4": "you have blood clotting disorders",
+          "5": "You have a high fever or severe infection; however, you may receive the vaccine if you have a mild fever or upper respiratory infection such as a cold",
+          "6": "you have any serious illness",
+          "7": "you have injection/needle phobia"
+        },
+        "after": "All vaccines have side effects. Pain, swelling or redness at the injection site, fever, nausea, enlarged lymph nodes, vomiting, headache, chills, muscle or joint pain, diarrhea are all common reactions that can last for several days. Symptoms usually occur on the day you receive the vaccine. How pronounced they will be depend on the peculiarities of your body and the vaccine itself.",
+        "before": "If you are allergic to the active substance or any of the other ingredients of the vaccine, it is advisable not to administer it. Take care and consult your doctor or pharmacist if:"
+      },
+      "ingredients": {
+        "name": "Ingredients",
+        "active-substance": {
+          "name": "Active substance",
+          "value": "Recombinant, replication-incompetent adenovirus type 26 expressing the SARS-CoV-2 spike protein"
+        },
+        "excipients": {
+          "name": "Excipients",
+          "options": {
+            "1": "2 hydroxypropyl-β-cyclodextrin (HBCD)",
+            "2": "citric acid monohydrate",
+            "4": "ethanol",
+            "10": "trisodium citrate dihydrate",
+            "5": "hydrochloric acid",
+            "6": "polysorbate-80",
+            "7": "sodium chloride",
+            "8": "sodium hydroxide",
+            "9": "water for injection"
+          }
+        }
+      },
+      "description": "Janssen is a vector-based vaccine produced by Janssen, which is part of Johnson & Johnson company.The vaccine contains an inactivated human adenovirus in which the DNA encoding the SARS-CoV-2 virus spike protein is embedded.Vector-based vaccines do not contain antigens (neither live nor inactivated virus), but use the body's cells to provoke antigen production."
+    }
+  }
 }
