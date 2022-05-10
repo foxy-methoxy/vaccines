@@ -1,0 +1,117 @@
+{
+  "language": "pl",
+  "title": "Szczepienia przeciw COVID-19: skuteczność i sposób działania",
+  "description": "Chociaż większość przypadków COVID-19 cechuje stosunkowo łagodny przebieg, to około 20% stanowią ciężkie postacie zakażeń. Biorąc pod uwagę tempo zachorowań na koronawirusa oraz jego powikłania, nie dziwi determinacja naukowców próbujących opracować nowe leki i szczepionki przeciwko SARS-CoV-2. Wszyscy mamy nadzieję, że skuteczna szczepionka na COVID-19 pozwoli pokonać pandemię. W poniższym artykule znajdą Państwo aktualne informacje na temat działania, skuteczności oraz składu szczepionek.",
+  "summary": "Wszystkie szczepionki mają skutki uboczne. Ból, opuchlizna lub zaczerwienienie w miejscu wstrzyknięcia, gorączka, mdłości, powiększenie węzłów chłonnych, wymioty, ból głowy, dreszcze, ból mięśni lub stawów, biegunka - to typowe reakcje organizmu, które mogą trwać kilka dni. Zazwyczaj objawy występują w dniu otrzymania szczepionki. To, jak bardzo będą one odczuwalne, zależy od indywidualnych cech organizmu i samej szczepionki.",
+  "vaccines": {
+    "Pfizer / BioNtech": {
+      "ingredients": {
+        "name": "Skład",
+        "active-substance": {
+          "name": "Substancja czynna",
+          "value": "Szczepionka mRNA przeciw COVID-19"
+        },
+        "excipients": {
+          "name": "Substancje pomocnicze",
+          "options": {
+            "8": "((4-hydroksybutylo)azanediyl)bis(heksano-6,1-diyl)bis(2-dekanian heksylu)",
+            "9": "2-[(glikol polietylenowy)-2000]-N,N-ditetradecyloacetamid",
+            "10": "1,2-distearoilo-sn-glicero-3-fosfocholina",
+            "1": "cholesterol",
+            "2": "chlorek potasu",
+            "3": "diwodorofosforan potasu",
+            "4": "chlorek sodu",
+            "5": "fosforan dwuwodny disodu",
+            "6": "sacharoza",
+            "7": "woda do wstrzykiwań"
+          }
+        }
+      },
+      "description": "Szczepionka BNT162b2 była opracowana przez niemiecką firmę farmaceutyczną BioNtech wspólnie z amerykańskim koncernem farmaceutycznym Pfizer. Po raz pierwszy była wyprodukowana w Wielkiej Brytanii. Szczepionka stworzona przy użyciu kwasu rybonukleinowego (RNA) i ta technologia  po raz pierwszy została dopuszczona do stosowania. Takie preparaty nie zawierają inaktywowanych (zabitych) wirusów ani nawet ich części. Zgodnie z wynikami badania, w którym wzięło udział 600 000 osób, skuteczność leku oceniono na 94%. Osoby, które otrzymały szczepionkę były o 94% mniej narażone na zachorowanie niż osoby, które nie zostały zaszczepione. A ci, którzy zachorowali na koronawirusa po szczepieniu, mieli o 92 % mniej przypadków ciężkiego przebiegu choroby. Cechą szczególną szczepionki jest to, że musi być przechowywana w specjalnych lodówkach w temperaturze poniżej 70 stopni Celsjusza. Szczepionka może być przechowywana w tej temperaturze przez sześć miesięcy, ale w temperaturze  -2..-8 stopni Celsjusza tylko przez 5 dni. Była to pierwsza zatwierdzona do użytku w Unii Europejskiej szczepionką przeciw COVID-19, i pierwsza stosowana w Polsce."
+    },
+    "Johnson&Johnson": {
+      "ingredients": {
+        "name": "Skład",
+        "active-substance": {
+          "name": "Substancja czynna",
+          "value": "Adenowirus typu 26 z sekwencją kodującą glikoproteinę S wirusa SARS-CoV-2"
+        },
+        "excipients": {
+          "name": "Excipients",
+          "options": {
+            "1": "2-hydroksypropylo-β-cyklodekstryna (HBCD)",
+            "2": "kwas cytrynowy jednowodny",
+            "3": "etanol",
+            "4": "chlorek sodu",
+            "5": "kwas solny",
+            "6": "polisorbat 80",
+            "7": "cytrynian sodu",
+            "8": "wodorotlenek sodu",
+            "9": "woda do wstrzykiwań"
+          }
+        }
+      },
+      "warnings": {
+        "list": {
+          "1": "u pacjenta kiedykolwiek wystąpiła ciężka, zagrażająca życiu reakcja alergiczna po wstrzyknięciu jakiejkolwiek innej szczepionki",
+          "2": "u pacjenta występuje osłabienie lub upośledzenie układu immunologicznego",
+          "3": "u pacjenta kiedykolwiek doszło do omdlenia po wkłuciu jakiejkolwiek igły",
+          "4": "u pacjenta występują zaburzenia krzepnięcia krwi",
+          "5": "u pacjenta występuje wysoka gorączka albo ciężkie zakażenie; pacjent może jednak otrzymać szczepionkę, jeśli występuje u niego łagodna gorączka lub infekcja górnych dróg oddechowych, taka jak przeziębienie",
+          "6": "u pacjenta występuje jakakolwiek poważna choroba",
+          "7": "u pacjenta występuje lęk związany ze wstrzyknięciami"
+        },
+        "after": "Wszystkie szczepionki mają skutki uboczne. Ból, opuchlizna lub zaczerwienienie w miejscu wstrzyknięcia, gorączka, mdłości, powiększenie węzłów chłonnych, wymioty, ból głowy, dreszcze, ból mięśni lub stawów, biegunka - to typowe reakcje organizmu, które mogą trwać kilka dni.",
+        "before": "Jeśli pacjent ma uczulenie na substancję czynną lub którykolwiek z pozostałych składników tej szczepionki, zaleca się nie podawać środka. Należy zachować ostrożność i skonsultować się z lekarzem lub farmaceutą, gdy:"
+      },
+      "description": "Janssen jest szczepionką wektorową wyprodukowaną przez firmę Janssen, która należy do koncernu Johnson & Johnson.Szczepionka zawiera inaktywowany ludzki adenowirus, w którym wbudowane jest DNA kodujące białko kolczaste wirusa SARS-CoV-2. Szczepionki oparte na wektorach nie zawierają antygenów (ani \"żywego\", ani \"inaktywowanego\" wirusa), lecz wykorzystują komórki organizmu do prowokowania produkcji antygenów. Według danych ŚOZ, szczepionka Janssen jest w 85,4% skuteczna 28 dni po szczepieniu przeciwko ciężkiemu przebiegowi choroby i w 66,9% chroni przed zakażeniem. można ją przechowywać w standardowych temperaturach lodówki +2...+8 stopni Celsjusza. "
+    },
+    "AstraZeneca": {
+      "ingredients": {
+        "name": "Skład",
+        "active-substance": {
+          "name": "Substancja czynna",
+          "value": "Adenowirus szympansi z sekwencją kodującą glikoproteinę S (spike) wirusa SARS-CoV-2 (ChAdOx1-S). Szczepionka zawiera organizmy modyfikowane genetycznie (GMO)"
+        },
+        "excipients": {
+          "name": "Substancje pomocnicze",
+          "options": {
+            "1": "L-histydyna",
+            "2": "L-histydyny chlorowodorek jednowodny",
+            "3": "chlorek magnezu sześciowodny",
+            "4": "polisorbat 80 (E433)",
+            "5": "sacharoza",
+            "6": "edetynian disodu (dwuwodny)",
+            "7": "etanol",
+            "8": "woda do wstrzykiwań"
+          }
+        }
+      },
+      "description": "Szczepionka AZD1222 została stworzona przez firmę AstraZeneca i Uniwersytet Oksfordzki. Szczepionka działa na bazie osłabionego adenowirusa, który wywołuje przeziębienia u szympansów. Osłabiony adenowirus nazywany jest wektorem i jest niezbędny do dostarczenia informacji o strukturze białka koronawirusa do organizmu. Ta szcepionka jest niemal w 100 proc. skuteczna przeciwko ciężkiemu przebiegowi COVID-19. W przypadku osób 65+ szczepionka w 85 proc. zapobiegała chorobie. Szczepionka  AstraZeneca musi być przechowywana w temperaturze 2-8ºC przez nawet sześć miesięcy."
+    },
+    "Moderna": {
+      "ingredients": {
+        "name": "Skład",
+        "active-substance": {
+          "name": "Substancja czynna",
+          "value": "Jednoniciowy, informacyjny RNA  , kodujący białko szczytowe (ang. spike, S) wirusa SARS-CoV-2"
+        },
+        "excipients": {
+          "name": "Substancje pomocnicze",
+          "options": {
+            "1": "cholesterol",
+            "2": "1,2- distearylo-sn-glicero-3-fosfocholina (DSPC)",
+            "3": "glikol 1,2-dimirystylo-rac-glicero-3-metoksypolietylenowy o masie cząsteczkowej 2000 (PEG2000 DMG)",
+            "4": "trometamol",
+            "5": "trometamolu chlorowodorek",
+            "6": "kwas octowy",
+            "7": "sodu octan trójwodny",
+            "8": "sacharoza",
+            "9": "woda do wstrzykiwań"
+          }
+        }
+      },
+      "description": "Szczepionka mRNA-1273 została opracowana przez amerykańską firmę Moderna. Produkowana jest w Massachusetts. Podobnie jak szczepionka Pfizer/BioNtech, Moderna działa w oparciu o kwasy rybonukleinowe, a obie szczepionki zawierają matrycowe RNA i są do siebie bardzo podobne. Po wprowadzeniu do organizmu, matrycowe RNA wnika do komórki i rozpoczyna syntezę antygenów specyficznych dla patogenu. Dokładniej kwas ten koduje syntezę białka S, białka kolczastego, które jest kluczową jednostką w tym wirusie, w komórkach, do których jest wprowadzany. Ponieważ jest on obcy dla ludzi, wywołuje u nich reakcję immunologiczną przeciwko sobie. Firma oświadczyła publicznie, że jej szczepionka przeciwko COVID-19 osiąga 94,1% skuteczności i 100% skuteczności w zapobieganiu ciężkiemu przebiegowi choroby. Co ważne, szczepionka wykazuje również wysoką skuteczność przeciwko nowym szczepom koronawirusów. Zaletą tej szczepionki w porównaniu z amerykańsko-niemiecką szczepionką Pfizer/BioNtech jest to, że można ją przechowywać w standardowych temperaturach lodówki +2...+8 stopni Celsjusza."
+    }
+  }
+}
